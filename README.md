@@ -7,12 +7,12 @@ The plan of action for this project can be found [here](https://github.com/Irfaa
 ## Research 
 Here you can find documents describing the research that has been done for this project:
 
-- [Research on sensors](Research/Research.pdf)
+- [Research on sensors](https://github.com/IrfaanBodha/Power-Monitoring-Internship/blob/main/Research/Research.pdf)
 - [Antenna research]
 - [Test PCB for Rogowski coils and TMR sensors]
-   - [Simulations](Test Board/Simulations.pdf)
-   - [Explanation of the schematic](Test Board/Test board Explanation.pdf)
-   - [Altium project file](Test Board/Test_Board.PrjPcb)
+   - [Simulations](https://github.com/IrfaanBodha/Power-Monitoring-Internship/blob/main/Test%20Board/Simulations.pdf)
+   - [Explanation of the schematic](https://github.com/IrfaanBodha/Power-Monitoring-Internship/blob/main/Test%20Board/Test%20board%20Explanation.pdf)
+   - [Altium project files](https://github.com/IrfaanBodha/Power-Monitoring-Internship/tree/main/Test%20Board)
 - [Test PCB for the nRF52840 micro controller]
 
 ## The Product
