@@ -2,7 +2,7 @@
 A repository meant as version control for my internship at Crownstone.
 
 ## Plan of Action
-The plan of action for this project can be found [here](Plan van Aanpak/Plan_van_Aanpak.pdf)
+The plan of action for this project can be found [here](./Plan van Aanpak/Plan_van_Aanpak.pdf)
 
 ## Research 
 Here you can find documents describing the research that has been done for this project:
