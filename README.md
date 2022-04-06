@@ -26,5 +26,5 @@ This section will contain links leading to various files associated with the pro
 ## Sources
 Sources will be listed here.
 
-##License
+## License
 A file containing the license can be found [here](LICENSE.md)
