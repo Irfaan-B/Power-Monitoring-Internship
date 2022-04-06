@@ -18,8 +18,8 @@ Here you can find documents describing the research that has been done for this 
 ## The Product
 This section will contain links leading to various files associated with the product that is being developed.
 
-- [Schematic]
-- [Explanation of the schematic]
+- [Schematic](TPPM/TMRSensors.SchDoc)
+- [Explanation of the schematic](TPPM/Circuit_Explanation.pdf)
 - [PCB File]
 - [Test Results]
 
