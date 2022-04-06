@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Test_Board.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Test_Board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=OPA2342.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=OPA2342.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Test_Board.SchDoc|Designator=TL074 Amplifier|SchDesignator=TL074 Amplifier|FileName=TL074.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=TL074.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
