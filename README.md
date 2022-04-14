@@ -1,4 +1,4 @@
-# Three-Phase Power Monitoring
+# Three-Phase Power Monitor
 A repository meant as version control for my internship at Crownstone.
 
 ## Plan of Action
