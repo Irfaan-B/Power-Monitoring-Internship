@@ -27,7 +27,7 @@ This section will contain links leading to various files associated with the pro
 - [Test Results]
 
 ## Sources
-Sources will be listed in the internship report.
+Sources will be listed in the [internship report](https://github.com/IrfaanBodha/Power-Monitoring-Internship/tree/main/Report).
 
 ## License
 A file containing the license can be found [here](LICENSE.md)
