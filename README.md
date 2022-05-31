@@ -1,8 +1,10 @@
-# Three-Phase Power Monitoring
+# Three-Phase Power Monitor
 A repository meant as version control for my internship at Crownstone.
 
 ## Plan of Action
 The plan of action for this project can be found [here](https://github.com/IrfaanBodha/Power-Monitoring-Internship/blob/main/Research/Research.pdf)
+
+A planning made for the second half of the project can be found [here](https://github.com/IrfaanBodha/Power-Monitoring-Internship/blob/main/Plan%20van%20Aanpak/Internship%20Planning%20(Second%20half).pdf)
 
 ## Research 
 Here you can find documents describing the research that has been done for this project:
@@ -18,13 +20,14 @@ Here you can find documents describing the research that has been done for this 
 ## The Product
 This section will contain links leading to various files associated with the product that is being developed.
 
+- [Internship Report](Report/Internship_Report.pdf)
 - [Schematic](TPPM/TMRSensors.SchDoc)
 - [Explanation of the schematic](TPPM/Circuit_Explanation.pdf)
 - [PCB File]
 - [Test Results]
 
 ## Sources
-Sources will be listed here.
+Sources will be listed in the [internship report](https://github.com/IrfaanBodha/Power-Monitoring-Internship/tree/main/Report).
 
 ## License
 A file containing the license can be found [here](LICENSE.md)
