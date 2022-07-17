@@ -21,7 +21,7 @@ This section will contain links leading to various files associated with the pro
 - [Internship Report](Report/Internship_Report.pdf)
 - [Schematic](TPPM/TMRSensors.SchDoc)
 - [Explanation of the schematic](TPPM/Circuit_Explanation.pdf)
-- [PCB Files] 
+- [PCB Files](TPPM)
 
 ## Sources
 Sources will be listed in the [internship report](https://github.com/IrfaanBodha/Power-Monitoring-Internship/tree/main/Report).
